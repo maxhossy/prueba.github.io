@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://praemovo.ml/index.html</loc>
+    <lastmod>2018-01-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://praemovo.ml/images/rocket.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://praemovo.ml/images/boy-broad-smile%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://praemovo.ml/images/coffee%20(2).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://praemovo.ml/images/pizza%20(1).png</image:loc>
+    </image:image>
+  </url>
+</urlset>
